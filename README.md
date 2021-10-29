@@ -6,7 +6,7 @@
 - Currently developping (since more than 3 years) : https://kronosflyby.myweb2be.com/ with the WebmidiAPI
 - See also this youtube channel : https://www.youtube.com/channel/UCwR2I07meVr9z2hEiytd97Q
 
-Have a nice Day !    :)
+Have a nice Day ! &nbsp;   :)
 
 <!---
 Pno74/Pno74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
