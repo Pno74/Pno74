@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Webmidi API
 - 💞️ I’m looking to collaborate on web based daw project, or contribute to the Webmidi API https://github.com/WebAudio/web-midi-api
 - 📫 How to reach me : kronosflyby@gmail.com
-- Currently developping : https://kronosflyby.myweb2be.com/ with the WebmidiAPI
+- Currently developping (since more than 3 years) : https://kronosflyby.myweb2be.com/ with the WebmidiAPI
 - See also this youtube channel : https://www.youtube.com/channel/UCwR2I07meVr9z2hEiytd97Q
 
 Have a nice Day ! :)
