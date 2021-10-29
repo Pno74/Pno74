@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pno74
 - 👀 I’m interested in Music Midi based programming software 
 - 🌱 I’m currently learning Webmidi API
-- 💞️ I’m looking to collaborate on web based daw project
+- 💞️ I’m looking to collaborate on web based daw project, or contribute to the Webmidi API
 - 📫 How to reach me : kronosflyby@gmail.com
 
 <!---
